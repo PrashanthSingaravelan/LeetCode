@@ -12,8 +12,8 @@ ID | Challenges  | Solution Scripts |
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
 
-| 1757 | [Recyclable and Low Fat Products] (https://leetcode.com/problems/recyclable-and-low-fat-products/)
+| 1757 | [Recyclable and Low Fat Products] (https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 [Solution] ()
 
-| 1393 | [Capital Gain/Loss] (https://leetcode.com/problems/capital-gainloss/)
+| 1393 | [Capital Gain/Loss] (https://leetcode.com/problems/capital-gainloss/) | 
 [Solution] (https://github.com/PrashanthSingaravelan/LeetCode/blob/main/SQL/Questions/1393.%20Capital%20Gain:Loss.sql)
