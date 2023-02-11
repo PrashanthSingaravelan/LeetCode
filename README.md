@@ -7,10 +7,16 @@ ID | Challenges  | Solution Scripts |
 
 
 ## Stack Operations
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
 
 ## Queue Operations
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
 
 ## Dynamic Programming
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
 
 ## DataBase Challenges
 ID | Challenges  | Solution Scripts |
