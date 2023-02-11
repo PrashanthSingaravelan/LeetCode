@@ -6,6 +6,12 @@ ID | Challenges  | Solution Scripts |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) |[Solution](01_SCRIPTS/Easy/07_easy_twitter_histogram_of_tweets.sql)
 
 
+## Stack Operations
+
+## Queue Operations
+
+## Dynamic Programming
+
 ## DataBase Challenges
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
