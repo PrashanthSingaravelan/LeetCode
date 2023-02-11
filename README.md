@@ -5,6 +5,9 @@ ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) |[Solution](01_SCRIPTS/Easy/07_easy_twitter_histogram_of_tweets.sql)
 
+## String Operations
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
 
 ## Stack Operations
 ID | Challenges  | Solution Scripts |
@@ -15,6 +18,22 @@ ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
 
 ## Dynamic Programming
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
+
+## Depth-First Search
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
+
+## Breadth-First Search
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
+
+## Recursion
+ID | Challenges  | Solution Scripts |
+|:------:|------------|:---------:|
+
+## Memoization
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
 
