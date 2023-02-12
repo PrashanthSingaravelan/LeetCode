@@ -36,7 +36,7 @@ ID | Challenges  | Solution Scripts |
 ## Binary-Search Trees
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
-| 2236 | [Root Equals Sum of Children] (https://leetcode.com/problems/root-equals-sum-of-children/) | [Solution] (https://github.com/PrashanthSingaravelan/LeetCode/blob/main/Binary%20Tree/2236.%20Root%20Equals%20Sum%20of%20Children.py)
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Solution](https://github.com/PrashanthSingaravelan/LeetCode/blob/main/Binary%20Tree/2236.%20Root%20Equals%20Sum%20of%20Children.py)
 
 
 ## Recursion
