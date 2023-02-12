@@ -37,6 +37,8 @@ ID | Challenges  | Solution Scripts |
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Solution](https://github.com/PrashanthSingaravelan/LeetCode/blob/main/Binary%20Tree/2236.%20Root%20Equals%20Sum%20of%20Children.py)
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Solution](https://github.com/PrashanthSingaravelan/LeetCode/blob/main/Binary%20Tree/2331.%20Evaluate%20Boolean%20Binary%20Tree.py)
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/PrashanthSingaravelan/LeetCode/blob/main/Binary%20Tree/938.%20Range%20Sum%20of%20BST.py)
 
 
 ## Recursion
