@@ -12,6 +12,11 @@ ID | Challenges  | Solution Scripts |
 ## Stack Operations
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
+| 1614 | [Maximum Nesting Depth of the Parentheses]https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ | [Solution]
+| 1475 | [Final Prices With a Special Discount in a Shop]https://leetcode.com/problems/ | [Solution]
+| 1021 | [Remove Outermost Parentheses]https://leetcode.com/problems/remove-outermost-parentheses/ | [Solution]
+| 590 | [N-ary Tree Postorder Traversal]https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | [Solution]
+| 589 | [N-ary Tree Preorder Traversal]https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | [Solution]
 
 ## Queue Operations
 ID | Challenges  | Solution Scripts |
@@ -48,6 +53,7 @@ ID | Challenges  | Solution Scripts |
 ## Memoization
 ID | Challenges  | Solution Scripts |
 |:------:|------------|:---------:|
+[Final Prices With a Special Discount in a Shop]
 
 ## DataBase Challenges
 ID | Challenges  | Solution Scripts |
